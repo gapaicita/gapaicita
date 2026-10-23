@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**gapaicita/gapaicita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm a Young Developer & Researcher 👋
 
-Here are some ideas to get you started:
+> **Code with Logic, Build with Purpose, Innovate for Impact.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a young developer passionate about building technology, solving complex problems, and turning research ideas into real-world solutions.
+
+### 🔬 Research & Innovation
+IoT-based research projects and technology-driven problem solving.
+
+### ⚡ Embedded Systems
+ESP32 · Arduino
+
+### 🌐 Web Development
+React.js · Firebase
+
+### 🧠 Competitive Programming
+Algorithms · Data Structures · Problem Solving
+
+### 🚀 Always Learning
+Exploring new technologies and engineering smarter solutions.
+
+---
+
+**My Goal:** To use technology and research to solve meaningful problems and create a positive impact.
